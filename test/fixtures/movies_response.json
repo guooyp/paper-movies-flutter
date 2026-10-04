@@ -1,0 +1,31 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "id": 653346,
+      "title": "Kingdom of the Planet of the Apes",
+      "original_title": "Kingdom of the Planet of the Apes",
+      "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+      "release_date": "2024-05-08",
+      "vote_average": 6.874
+    },
+    {
+      "id": 823464,
+      "title": "Godzilla x Kong: The New Empire",
+      "original_title": "Godzilla x Kong: The New Empire",
+      "poster_path": "/tMefBSflR6PGQLv7WvFPpKLPaMe.jpg",
+      "release_date": "2024-03-27",
+      "vote_average": 7
+    },
+    {
+      "id": 1,
+      "title": "",
+      "original_title": "Un père idéal",
+      "poster_path": null,
+      "release_date": "",
+      "vote_average": 3.2
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 3
+}
